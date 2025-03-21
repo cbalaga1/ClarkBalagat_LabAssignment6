@@ -1,2 +1,4 @@
 Project Name: GitHub Workflow Assignment 
 Description: Simulated project for practicing GitHub workflows.
+
+Feature: Added user authentication feature.
